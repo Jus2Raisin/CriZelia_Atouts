@@ -1,0 +1,12 @@
+main: fr.jus2raisin.atouts.Main
+
+name: Atouts
+version: 1.0.0-SNAPSHOT
+author: Jus2Raisin
+depend:
+  - SmartInvs
+
+commands:
+  atouts:
+    description: Ouvrez le menu des atouts.
+    aliases: [atout]
